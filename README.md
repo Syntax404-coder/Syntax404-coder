@@ -2,7 +2,11 @@
 
 **`He's all right. He's a good fella. He's one of us`**
 
-I'm a junior computer science student hoping contribute something in the digital world one step at a time. I have keen interest in Cybersecurity and AI. I also like movies and stuff.
+Hi there! I'm a junior Computer Science student passionate about making an impact in the digital world, one project at a time. My areas of interest span across Cybersecurity and Artificial Intelligence, where I'm constantly learning and exploring new ways to innovate and create secure, intelligent systems.
+
+I'm enthusiastic about contributing to open-source projects and collaborating with other developers to solve real-world problems. When I'm not coding or diving into tech trends, I enjoy watching movies and indulging in a variety of other interests that inspire my creativity.
+
+Always eager to learn, grow, and build something meaningful
 
 
 ### 🧰 Languages and Tools
