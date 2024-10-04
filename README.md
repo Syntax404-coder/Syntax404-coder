@@ -2,7 +2,7 @@
 
 **`He's all right. He's a good fella. He's one of us`**
 
-I'm an junior computer science student hoping contribute something in the digital world one step at a time. I have keen interest in Cybersecurity and AI
+I'm a junior computer science student hoping contribute something in the digital world one step at a time. I have keen interest in Cybersecurity and AI. I also like movies and stuff.
 
 
 ### 🧰 Languages and Tools
