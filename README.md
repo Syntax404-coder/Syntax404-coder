@@ -4,10 +4,6 @@
 
 Hi there! I'm a junior Computer Science student passionate about making an impact in the digital world, one project at a time. My areas of interest span across Cybersecurity and Artificial Intelligence, where I'm constantly learning and exploring new ways to innovate and create secure, intelligent systems.
 
-I'm enthusiastic about contributing to open-source projects and collaborating with other developers to solve real-world problems. When I'm not coding or diving into tech trends, I enjoy watching movies and indulging in a variety of other interests that inspire my creativity.
-
-Always eager to learn, grow, and build something meaningful
-
 
 ### 📌 Technologies & Tools I Use 
 
