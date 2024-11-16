@@ -2,7 +2,7 @@
 
 **`He's all right. He's a good fella. He's one of us`**
 
-Hi there! I'm currently a junior Computer Science student. My areas of interest span across Cybersecurity and Artificial Intelligence, where I'm constantly learning and exploring new ways to innovate and create secure, intelligent systems.
+Hi there! I'm currently a junior Computer Science student. My areas of interest span across Cybersecurity and Artificial Intelligence.
 
 
 ### 📌 Technologies & Tools I Use 
