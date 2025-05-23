@@ -1,6 +1,6 @@
 # 🧗 SYNTAX 404
 
-**`He's all right. He's a good fella. He's one of us`**
+**`He's alright. He's a good fella. He's one of us`**
 
 Hi there! I'm currently a junior Computer Science student at West Visayas State University. My areas of interest span across Cybersecurity and GameDev.
 
