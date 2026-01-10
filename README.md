@@ -1,20 +1,20 @@
-# 🧗 SYNTAX 404
+#  SYNTAX 404
 
 **`He's alright. He's a good fella. He's one of us`**
 
 Hi there! I'm **Domenic Taganahan**, a Senior Computer Science student at **West Visayas State University** (Class of 2026).
 
-### 🔭 What I'm Working On
+###  What I'm Working On
 * **System Utilities:** Building functional **PowerShell CLI tools** (like *TimeLyte*) to optimize workflow productivity.
 
-### ⚡ Areas of Interest
+###  Areas of Interest
 * **Artificial Intelligence:** Computer Vision & Deep Learning
 * **Cybersecurity:** System Integrity & QA
 * **Development:** Game Dev & Command-Line Interfaces
 
 ---
 
-### 📌 Technologies & Tools I Use
+###  Technologies & Tools I Use
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
