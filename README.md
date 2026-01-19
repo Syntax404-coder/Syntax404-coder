@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8b5cf6&width=560&height=60&lines=Hi,+I'm+Domenic;SYNTAX+404;QA+%7C+AI+%7C+DevSecOps;The+bags+under+my+eyes+are+DESIGNER." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8b5cf6&width=560&height=60&lines=Hi,+I'm+Domenic;SYNTAX+404;QA+%7C+AI+%7C+DEvSecOps;The+bags+under+my+eyes+are;DESIGNER." alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Syntax404-coder&label=Profile+Views&color=8b5cf6&style=for-the-badge&labelColor=1f2937" alt="Profile Views" />
 </p>
-
 
 **`He's alright. He's a good fella. He's one of us.`**
 
