@@ -13,15 +13,19 @@
 
 **`He's alright. He's a good fella. He's one of us.`**
 
-Hi there! I'm **Domenic Taganahan**, a Senior Computer Science student at **West Visayas State University** (Class of 2026).
+Hi there! I'm **NICO** (Domenic Taganahan), a Computer Science graduate from **West Visayas State University** (Class of 2026). I earned my degree **Magna Cum Laude**, majoring in Artificial Intelligence.
 
 ### What I'm Working On
-* **System Utilities:** Building functional **PowerShell CLI tools** (like *TimeLyte*) to optimize workflow productivity.
+
+* **System Utilities:** Building functional **PowerShell CLI tools** (like *TimeLyte* and *Sentry*) to optimize workflow productivity and system integrity.
+* **Medical AI Platforms:** Developing deep learning solutions for automated detection and localization, integrated into modern web frontends.
+* **Full-Stack Systems:** Architecting robust backend services and research management platforms.
 
 ### Areas of Interest
+
 * **Artificial Intelligence:** Computer Vision & Deep Learning
-* **Cybersecurity:** System Integrity & QA
-* **Development:** Game Dev & Command-Line Interfaces
+* **Cybersecurity:** DevSecOps, System Integrity & QA
+* **Development:** Full-Stack Web Architectures & Command-Line Interfaces
 
 ---
 
